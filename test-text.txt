@@ -1,5 +1,6 @@
 Iskandar resolusi
 -konsiten coding
+-data structure
 -buat platform untuk memajukan negara
 -edit file ni(tambah)
 main edit default
