@@ -1,6 +1,7 @@
 Iskandar resolusi
 -konsiten coding
 -data structure
+-lara vue (fit1)
 -buat platform untuk memajukan negara
 -edit file ni(tambah)
 main edit default
