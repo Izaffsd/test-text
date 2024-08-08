@@ -1,7 +1,8 @@
 Iskandar resolusi
 -konsiten coding
 -data structure
--buat platform untuk memajukan negara (+filter2 edit)
+-lara vue (fit1 + edit lat )
+-buat platform untuk memajukan negara
 -edit file ni(tambah)
 main edit default
 _filer2
